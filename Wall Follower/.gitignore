@@ -1,0 +1,7 @@
+bin/ 
+.classpath
+.project
+.prj
+.DS_Store
+
+Main.jar
